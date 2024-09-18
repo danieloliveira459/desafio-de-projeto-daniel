@@ -1,2 +1,2 @@
-# desafio-de-projeto-daniel
-desafio de projeto Git/GitHub
+# Desafio de projeto Git/GitHub
+Repositório para desafio de projeto Daniel.
